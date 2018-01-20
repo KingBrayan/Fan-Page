@@ -1,0 +1,12 @@
+header{
+	border:3px solid #000000;
+	background-color: #0f5791;
+	background-position: center top;
+	background-size:300px 400px ;
+}
+p{
+	font-size: 2em;
+}
+h3{
+	font-size: 3em;
+}
